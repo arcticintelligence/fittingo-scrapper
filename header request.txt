@@ -1,0 +1,48 @@
+﻿Host: www.fittingo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json; charset=utf-8
+X-Requested-With: XMLHttpRequest
+Referer: http://www.fittingo.com/Kalori_Cetveli.aspx
+Content-Length: 20
+Cookie: fittingo_Session=0yyrtyzzjpgxcbddowubsdt0; __utma=18887727.261575264.1424173439.1424173439.1424173439.1; __utmb=18887727.2.10.1424173439; __utmc=18887727; __utmz=18887727.1424173439.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; _ym_visorc_20070928=w
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+
+---------------------------------
+{ProductName:'bana'}
+
+url: http://www.fittingo.com/Kalori_Cetveli.aspx/FoodList
+
+
+---------------jSON DATA-----------------
+Website content:{"d":"{\"durum\":\"1\",\"Liste\":\"\\u003cli id=\\u0027215\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Vegetables.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBamya\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027216\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Vegetables.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBamya\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027217\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Corbalar.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBamya Çorbası\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027218\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Makarna.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBamya Makarna, pişmemiş\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027220\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Sebzeler.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBamya, taze\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027283\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Sakatat.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBeyin\\u003c/span\\u003e\\u003c/li\\u003e\\u003cli id=\\u0027373\\u0027\\u003e\\u003cdiv class=\\u0027dv_ProductImage\\u0027\\u003e\\u003cimg src=\\u0027images/Alt_Yemek/Cikolata.png\\u0027 /\\u003e\\u003c/div\\u003e\\u003cspan\\u003eBueno Gofret\\u003c/span\\u003e\\u003c/li\\u003e\",\"HataMesaji\":null}"}
+
+--------------FOOD DETAILS-------------------
+URL: http://www.fittingo.com/Kalori_Cetveli.aspx/FoodDetails
+{FoodId:'215'}
+
+Host: www.fittingo.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: en-US,en;q=0.5
+X-Requested-With: XMLHttpRequest
+Accept-Encoding: gzip, deflate
+Content-Type: application/json; charset=utf-8
+Pragma: no-cache
+Cache-Control: no-cache
+Referer: http://www.fittingo.com/Kalori_Cetveli.aspx
+Content-Length: 14
+Cookie: fittingo_Session=0yyrtyzzjpgxcbddowubsdt0; __utma=18887727.261575264.1424173439.1424179449.1424181713.3; __utmc=18887727; __utmz=18887727.1424173439.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=18887727.1.10.1424181713
+Connection: keep-alive
+
+----------------------------------------------------------------------
+
+
+
+Referer: http://localhost/training/notification/?submit=
+
+Origin: http://localhost
